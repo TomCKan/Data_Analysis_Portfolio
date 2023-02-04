@@ -1,7 +1,7 @@
 # Data_Analysis_Portfolio
 A high level view and summary of my current projects.
 
-# Project 1: Exploratory Data Analysis of Deaths Caused by Conflict in Myanmar: Project Overview
+# [Project 1: Exploratory Data Analysis of Deaths Caused by Conflict in Myanmar: Project Overview](https://github.com/TomCKan/Myanmar_Data_Analysis)
 - An in-depth review of data sources concluding that data from UCDP (Uppsala Conflict Data Program) was the most reliable source, although real figures are likely to be considerably higher.
 - The use of Python; Pandas, Numpy and Matplotlib to clean and analyse data.
 - Comparing UCDP data with other data sources and explaining differences and similarities.
