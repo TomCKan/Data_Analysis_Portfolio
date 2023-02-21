@@ -7,6 +7,9 @@ A high level view and summary of my current ongoing projects.
 - Comparing UCDP data with other data sources and explaining differences and similarities.
 - Finding key trends and explanations to severe anomalies.
 
+![](https://github.com/TomCKan/Data_Analysis_Portfolio/blob/main/images/bokeh_plot%20(1).png)
+
+
 # Project 2: Location Planning Mapping For an Electric Bike Retailer: Project Overview 
 - Comparing public datasets of key performance indicators.
 - The use of Python; Pandas, Numpy and Matplotlib to clean data and perform initial analyses.
